@@ -1,0 +1,18 @@
+[
+    {
+      "Protocol": "TCP",
+      "Port": 8085,
+      "Ref": "GamePort1",
+      "Name": "World Port",
+      "Description": "World Port",
+      "ChildPorts": null
+    },
+    {
+      "Protocol": "TCP",
+      "Port": 3724,
+      "Ref": "GamePort2",
+      "Name": "Auth Port",
+      "Description": "Auth Port",
+      "ChildPorts": null
+    }
+]
